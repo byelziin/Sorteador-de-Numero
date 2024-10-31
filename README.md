@@ -15,7 +15,7 @@
 
 ***
 
-🚀 Linguagem de usada programação:
+🚀 Linguagem de programação usada:
 
 ![image](https://github.com/byelziin/numero-secreto/assets/174073319/43a247ff-246a-4430-931a-ec5d6ca6d0e1)
 
